@@ -1,6 +1,6 @@
 # 🅿️ Graphical Parking Lot Manager in Python
 
-A simple graphical application built with Python and Tkinter (or CustomTkinter) to manage a parking lot.
+A simple graphical application built with Python and Tkinter to manage a parking lot.
 
 ## 🚗 Features
 
